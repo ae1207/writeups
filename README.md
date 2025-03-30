@@ -1,4 +1,4 @@
-# writeups
+# README
 Hi! Welcome to my GitHub.
 I will be putting up all the writeups for CTFs I had done.
 
